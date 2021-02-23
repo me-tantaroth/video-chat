@@ -1,9 +1,25 @@
 # TUTORIAL VIDEO CHAT
 
-## PROTOTOTYPE
-### INSTALL DEPENDENCIES
+## Getting started prototype
+### Install dependencies
 
-`cd prototype && npm install && cd ..`
-### RUN SERVER
+```bash
+cd prototype && npm install && cd ..
+```
+### Run server
 
-`npm start --prefix prototype/`
+```bash
+npm start --prefix prototype/
+```
+
+## Getting started compiled project
+### Install dependencies
+
+```bash
+npm install
+```
+### Run server
+
+```bash
+npm run dev
+```
