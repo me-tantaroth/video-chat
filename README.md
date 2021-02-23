@@ -1,4 +1,8 @@
 # TUTORIAL VIDEO CHAT
+
+## INSTALL DEPENDENCIES
+
+`npm install`
 ## RUN SERVER
-### RUN ./run-server.sh
+
 `npm start`
