@@ -1,8 +1,9 @@
 # TUTORIAL VIDEO CHAT
 
-## INSTALL DEPENDENCIES
+## PROTOTOTYPE
+### INSTALL DEPENDENCIES
 
-`npm install`
-## RUN SERVER
+`cd prototype && npm install && cd ..`
+### RUN SERVER
 
-`npm start`
+`npm start --prefix prototype/`
